@@ -19,3 +19,8 @@ use EMA Smoothing to integrate the swap rates of each start date
 + XGboosting 
 + Random Forest
 + Nerual Network
+
+
+# Reference docs
+
+https://user42.tuxfamily.org/chart/manual/Exponential-Moving-Average.html
