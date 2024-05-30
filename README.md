@@ -1,6 +1,6 @@
 # UBS-Contest
 
-UBS-Contest-RiskManagement
+UBS-Contest-Financial Engineering (Risk Prediction for Range Accural Note)
 
 # Brief Overview
 There exist four different datasets in CSV form namely swap-rates, market volatilities, trade information and the vegas.
